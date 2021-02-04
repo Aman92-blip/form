@@ -1,15 +1,15 @@
 
-<!DOCTYPE html>
-<html>
-   <head>
-      <title>HTML img Tag</title>
-   </head>
+ACP-22
 
-   <body>
-      <img src="/html/images/test.png" alt="Simply Easy Learning" width="200"
-         height="80">
-   </body>
-</html>
+
+
+
+
+
+
+
+
+
 
   
 
