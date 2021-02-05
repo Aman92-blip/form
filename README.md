@@ -49,6 +49,12 @@ Routine:
 <input type="submit" value="BATCH22-ROUTINE" />
 </form>
 
+upcoming:Play list,Checkbox,Assignment,Notes
+Colors are not developed.
+
+
+
+© goes to MIAH MOHAMMED AMAN(batch-22)--😍
 
 
 
