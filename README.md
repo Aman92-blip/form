@@ -10,13 +10,13 @@ BUTTON:
 
     REMAINING TIME TO START NEXT CHELLENGE...
     
-<!DOCTYPE HTML> 
+
 <html> 
 <head> 
 <style> 
 p { 
   text-align: center; 
-  font-size: 60px; 
+  font-size: 150px; 
 } 
 </style> 
 </head> 
