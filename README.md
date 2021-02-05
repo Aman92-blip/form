@@ -1,7 +1,7 @@
 HELLO! বন্ধুরা আস্সলামুআলাইকুম। ASP এর ওয়েবসাইট টা দেখে মনে হলো যদি ACP আর্মিদের জন্যও একটা ওয়েবসাইট বানাই তাহলে কেমন হয়? ACP এর প্রাইভেট গ্রুপ তো আছেই পাশাপাশি একটা ওয়েবসাইটের সুযোগ সুবিধাই আলাদা। তো, এখানে আমরা Upcoming Exam এর TIME,ASSIGNMENT,NOTES,CHECKBOX ফিো আপ ও দেখতে পারবো।
 BUTTON:
 <form action="https://facebook.com/groups/272368833896163/">
-    <input type="submit" value="Go to Google" />
+    <input type="submit" value="APC-22 FACEBOOK GROUP" />
 </form>
                                       
                                       LET'S START THE COUNTDOWN 
@@ -16,7 +16,7 @@ BUTTON:
 <style> 
 p { 
   text-align: center; 
-  font-size: 150px; 
+  font-size: 80px; 
 } 
 </style> 
 </head> 
