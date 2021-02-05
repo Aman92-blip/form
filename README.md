@@ -10,7 +10,7 @@ BUTTON:
 
     REMAINING TIME TO START NEXT CHELLENGE...
     
-    !DOCTYPE HTML> 
+<!DOCTYPE HTML> 
 <html> 
 <head> 
 <style> 
@@ -23,7 +23,7 @@ p {
 <body> 
 <p id="demo"></p> 
 <script> 
-var deadline = new Date("Jan 5, 2018 15:37:25").getTime(); 
+var deadline = new Date("Feb 7, 2021 11:00:00").getTime(); 
 var x = setInterval(function() { 
 var now = new Date().getTime(); 
 var t = deadline - now; 
