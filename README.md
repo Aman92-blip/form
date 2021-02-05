@@ -78,7 +78,59 @@ Colors are not developed.
 
 
 
+top cycle" the function stopCycle(), which start and stop the timer respectiveley.
 
+The timer executes function changeColor which was designed to see which colour the "indicator" paragraph was showing, therefore recolouring the "title" division to the next colour in the list.
+
+I guess I could have detected the actual colour of the "title" division instead of creating a new paragraph. That and a whole bunch of stuff I could have improved.
+
+I even bet that I have done many wrong things here.
+
+Thanks in advance for sparing your time!
+
+UPDATE: I finally got it to work. view full code here:
+
+<button type="button" onclick="startCycle()">Start/Resume cycle</button>
+<button type="button" onclick="stopCycle()">Stop cycle</button>
+<div id="title">Colormatic!</div>
+It is currently
+<span id="indicator">blue</span>
+
+<script>
+
+var timerId;
+
+var ind = document.getElementById("indicator");
+var tit = document.getElementById("title");
+var color = ["red"]
+
+function startCycle() {
+    timerId = setInterval(changeColor, 500);
+}
+
+function stopCycle() {
+    clearInterval(timerId);
+    timerId = null;
+}
+
+function changeColor() {
+    if (ind.innerHTML == 'blue') {
+        tit.style.color = 'green';
+        ind.innerHTML = 'green';
+    }
+
+    else if (ind.innerHTML == "green") {
+        tit.style.color = 'yellow';
+        ind.innerHTML = "yellow";
+    }
+
+    else {
+        tit.style.color = 'blue';
+        ind.innerHTML = "blue";
+    }
+}
+
+</script>
 
 
 
