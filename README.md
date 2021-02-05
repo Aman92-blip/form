@@ -14,21 +14,6 @@ HELLO! বন্ধুরা আস্সলামুআলাইকুম। AS
 
 
 
-Stack Overflow
-sign up log in
-Questions Jobs Tags Users Badges Ask
-Up vote
--1
-Down vote
-
-Anyway possible to make a countdown timer change color at an certain time with javascript? [closed]
-javascript timer countdown
-Closed. This question needs debugging details. It is not currently accepting answers.
-Want to improve this question? Update the question so it's on-topic for Stack Overflow.
-
-Closed 5 years ago.
-
-Im trying to make a countdown timer that would change the color when reaches two different points, it supposed to go orange when reaches "00:59" and then change to red when reaches " 00:00 " How do I do that with javascript.
 
 <html>
 <head>
@@ -86,6 +71,26 @@ This is only valid for the next <input id="minutes" type="text"   style="width: 
 <script>
 countdown();
 </script>
+
+FB GROUP:<!DOCTYPE HTML> 
+<html> 
+<head>  
+<title> 
+example of onclick button
+</title> 
+<script> 
+function welcome() { 
+window.open(https://facebook.com/groups/272368833896163/");
+} 
+</script> 
+</head> 
+<body style = "text-align:center"> 
+<button onclick="welcome()"> Welcome to our website </button>         
+</body> 
+</html>
+
+ 
+
 
 
 
