@@ -16,7 +16,8 @@ BUTTON:
 <style> 
 p { 
   text-align: center; 
-  font-size: 80px; 
+  font-size: 70px; 
+  font-colour:red
 } 
 </style> 
 </head> 
