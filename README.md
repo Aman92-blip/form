@@ -1,4 +1,4 @@
-HELLO! বন্ধুরা আস্সলামুআলাইকুম। ASP এর ওয়েবসাইট টা দেখে মনে হলো যদি ACP আর্মিদের জন্যও একটা ওয়েবসাইট বানাই তাহলে কেমন হয়? ACP এর প্রাইভেট গ্রুপ তো আছেই পাশাপাশি একটা ওয়েবসাইটের সুযোগ সুবিধাই আলাদা। তো, এখানে আমরা Upcoming Exam এর TIME,ASSIGNMENT,NOTES,CHECKBOX ফিো আপ ও দেখতে পারবো।
+HELLO! বন্ধুরা আস্সলামুআলাইকুম। ASP এর ওয়েবসাইট টা দেখে মনে হলো যদি ACP আর্মিদের জন্যও একটা ওয়েবসাইট বানাই তাহলে কেমন হয়? ACP এর প্রাইভেট গ্রুপ তো আছেই পাশাপাশি একটা ওয়েবসাইটের সুযোগ সুবিধাই আলাদা। তো, এখানে আমরা Upcoming Exam এর TIME,ASSIGNMENT,NOTES,CHECKBOX ফিল আপ ও দেখতে পারবো।
 BUTTON:
 <form action="https://facebook.com/groups/272368833896163/">
     <input type="submit" value="ACP-22 FACEBOOK GROUP" />
@@ -16,7 +16,7 @@ BUTTON:
 <style> 
 p { 
   text-align: center; 
-  font-size: 40px; 
+  font-size: 20px; 
   font-colour:red
 } 
 </style> 
@@ -44,8 +44,9 @@ document.getElementById("demo").innerHTML = days + "d " 
 </body> 
 </html> 
 
-Routine:<form action="https://docs.google.com/spreadsheets/d/1L-sQ5AE6sxePEgZII7Rybxp-dsJdYfmqhm3Lf4FqhtA/edit?usp=drivesdk/">
-    <input type="submit" value="BATCH22-ROUTINE" />
+Routine:
+<form action="https://docs.google.com/spreadsheets/d/1L-sQ5AE6sxePEgZII7Rybxp-dsJdYfmqhm3Lf4FqhtA/edit?usp=drivesdk/">
+<input type="submit" value="BATCH22-ROUTINE" />
 </form>
 
 
