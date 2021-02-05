@@ -91,6 +91,11 @@ window.open(https://facebook.com/groups/272368833896163/");
 
 BUTTON:<button onclick="https://facebook.com/groups/272368833896163">Continue</button>
 
+BUTTON:
+<form action="https://https://facebook.com/groups/272368833896163">
+    <input type="submit" value="Go to Google" />
+</form>
+
  
 
 
