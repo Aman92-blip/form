@@ -5,7 +5,8 @@ BUTTON:
 </form>
                                       
                                       LET'S START THE COUNTDOWN 
-                                      (function () {
+
+(function () {
   const second = 1000,
         minute = second * 60,
         hour = minute * 60,
@@ -38,7 +39,6 @@ BUTTON:
         //seconds
       }, 0)
   }());
-
 
 
 
