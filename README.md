@@ -17,7 +17,7 @@ BUTTON:
 p { 
   text-align: center; 
   font-size: 20px; 
-  font-colour:red
+  font-colour:yellow
 } 
 </style> 
 </head> 
@@ -102,7 +102,7 @@ var timerId;
 
 var ind = document.getElementById("indicator");
 var tit = document.getElementById("title");
-var color = ["red"]
+var color = ["yellow"]
 
 function startCycle() {
     timerId = setInterval(changeColor, 500);
@@ -132,7 +132,7 @@ function changeColor() {
 
 </script>
 
-<body style="background-color:#FF0000;">
+<body style="background-color:#FFFF000;">
 </body>
 
 
