@@ -1,7 +1,9 @@
 	
 <center><font size="+3">LET'S START THE COUNTDOWN.</font></center>
 
-
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script type="text/javascript" src="TimeCircles.js"></script>
+<link href="TimeCircles.css" rel="stylesheet">      
 
 
 REMAINING TIME TO START NEXT CHELLENGE..!!!.
