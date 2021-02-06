@@ -1,9 +1,9 @@
 
-                                      LET'S START THE COUNTDOWN 
+LET'S START THE COUNTDOWN 
 
 
 
-    REMAINING TIME TO START NEXT CHELLENGE...
+REMAINING TIME TO START NEXT CHELLENGE...
     
 
 <html> 
