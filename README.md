@@ -1,13 +1,14 @@
 	
-                         <center><font size="+3">LET'S START THE COUNTDOWN 
-.</font></center>
+                         <center><font size="+3">LET'S START THE COUNTDOWN.</font></center>
+
 
 
 
 REMAINING TIME TO START NEXT CHELLENGE..!!!.
     
 
-<font size="+3"><html> 
+<font size="+3">
+	<html> 
 <head> 
 <style> 
 p { 
