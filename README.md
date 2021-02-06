@@ -1,4 +1,4 @@
-  <font size="+2">LET'S START THE COUNTDOWN 
+  <font size="+5">LET'S START THE COUNTDOWN 
 .</font>;<center>Center this text!</center>
 
 
