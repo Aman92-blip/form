@@ -50,6 +50,38 @@ document.getElementById("demo").innerHTML = days + "d " 
 
 © goes to MIAH MOHAMMED AMAN(batch-22)--😍
 
+{
+  "name": "countdown",
+  "version": "2.2.0",
+  "title": "The Final Countdown",
+  "description": "jQuery plugin to display a countdown clock on your page.",
+  "keywords": [
+    "countdown",
+    "coupons",
+    "auction",
+    "clock",
+    "datetime",
+    "date"
+  ],
+  "author": {
+    "name": "Edson Hilios",
+    "url": "http://edson.hilios.com.br"
+  },
+  "homepage": "http://hilios.github.io/jQuery.countdown/",
+  "docs": "http://hilios.github.io/jQuery.countdown/documentation.html",
+  "demo": "http://hilios.github.io/jQuery.countdown/examples.html",
+  "bugs": "https://github.com/hilios/jQuery.countdown/issues",
+  "download": "https://github.com/hilios/jQuery.countdown/releases/download/2.0.4/jquery.countdown-2.0.4.zip",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/hilios/jQuery.countdown/blob/2.0.4/LICENSE.md"
+    }
+  ],
+  "dependencies": {
+    "jquery": ">=1.7"
+  }
+}
  
 
 
