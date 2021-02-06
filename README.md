@@ -1,9 +1,9 @@
-  <font size="+5">LET'S START THE COUNTDOWN 
-.</font>;<center>Center this text!</center>
+  <center><font size="+3">LET'S START THE COUNTDOWN 
+.</font></center>
 
 
 
-REMAINING TIME TO START NEXT CHELLENGE...
+REMAINING TIME TO START NEXT CHELLENGE..!!!.
     
 
 <html> 
