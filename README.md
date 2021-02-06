@@ -13,7 +13,7 @@ REMAINING TIME TO START NEXT CHELLENGE..!!!.
 <head> 
 <style> 
 p { 
-  text-align: center; 
+  text-align: center;
   font-size: 20px; 
   font-colour:yellow
 } 
