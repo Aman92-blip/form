@@ -1,12 +1,4 @@
-HELLO! বন্ধুরা আস্সলামুআলাইকুম। ASP এর ওয়েবসাইট টা দেখে মনে হলো যদি ACP আর্মিদের জন্যও একটা ওয়েবসাইট বানাই তাহলে কেমন হয়? ACP এর প্রাইভেট গ্রুপ তো আছেই পাশাপাশি একটা ওয়েবসাইটের সুযোগ সুবিধাই আলাদা। তো, এখানে আমরা Upcoming Exam এর TIME,ASSIGNMENT,NOTES,CHECKBOX ফিল আপ ও দেখতে পারবো।
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeMH1WHUQAsDr8rVdTZ3kAuKmIdD2Tlcguq6x_pcYWkjuUsyQ/viewform?embedded=true" width="700" height="520" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
-
-BUTTON:
-<form action="https://facebook.com/groups/272368833896163/">
-    <input type="submit" value="ACP-22 FACEBOOK GROUP" />
-</form>
-                                      
                                       LET'S START THE COUNTDOWN 
 
 
@@ -47,104 +39,17 @@ document.getElementById("demo").innerHTML = days + "d " 
 </body> 
 </html> 
 
-Routine:
-<form action="https://docs.google.com/spreadsheets/d/1L-sQ5AE6sxePEgZII7Rybxp-dsJdYfmqhm3Lf4FqhtA/edit?usp=drivesdk/">
-<input type="submit" value="BATCH22-ROUTINE" />
-</form>
 
-upcoming:Play list,Checkbox,Assignment,Notes
-Colors are not developed.
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeMH1WHUQAsDr8rVdTZ3kAuKmIdD2Tlcguq6x_pcYWkjuUsyQ/viewform?embedded=true" width="800" height="800" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+
 
 
 
 © goes to MIAH MOHAMMED AMAN(batch-22)--😍
 
 
-<        <span class="bottom-back">
-          <span>0</span>
-        </span>          
-      </div>
-
-      <div class="figure sec sec-2">
-        <span class="top">0</span>
-        <span class="top-back">
-          <span>0</span>
-        </span>
-        <span class="bottom">0</span>
-        <span class="bottom-back">
-          <span>0</span>
-        </span>
-      </div>
-    </div>
-  </div>
-</div>
-
-
-
-top cycle" the function stopCycle(), which start and stop the timer respectiveley.
-
-The timer executes function changeColor which was designed to see which colour the "indicator" paragraph was showing, therefore recolouring the "title" division to the next colour in the list.
-
-I guess I could have detected the actual colour of the "title" division instead of creating a new paragraph. That and a whole bunch of stuff I could have improved.
-
-I even bet that I have done many wrong things here.
-
-Thanks in advance for sparing your time!
-
-UPDATE: I finally got it to work. view full code here:
-
-<button type="button" onclick="startCycle()">Start/Resume cycle</button>
-<button type="button" onclick="stopCycle()">Stop cycle</button>
-<div id="title">Colormatic!</div>
-It is currently
-<span id="indicator">blue</span>
-
-<script>
-
-var timerId;
-
-var ind = document.getElementById("indicator");
-var tit = document.getElementById("title");
-var color = ["yellow"]
-
-function startCycle() {
-    timerId = setInterval(changeColor, 500);
-}
-
-function stopCycle() {
-    clearInterval(timerId);
-    timerId = null;
-}
-
-function changeColor() {
-    if (ind.innerHTML == 'blue') {
-        tit.style.color = 'green';
-        ind.innerHTML = 'green';
-    }
-
-    else if (ind.innerHTML == "green") {
-        tit.style.color = 'yellow';
-        ind.innerHTML = "yellow";
-    }
-
-    else {
-        tit.style.color = 'blue';
-        ind.innerHTML = "blue";
-    }
-}
-
-</script>
-
-<body style="background-color:#FFFF000;">
-</body>
-
-
-<div id="ff-compose"></div>
-<script async defer src="https://formfacade.com/include/107577415015131484641/form/1FAIpQLSeMH1WHUQAsDr8rVdTZ3kAuKmIdD2Tlcguq6x_pcYWkjuUsyQ/classic.js?div=ff-compose"></script>
-
-
-
-
+ 
 
 
 
