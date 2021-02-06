@@ -1,4 +1,5 @@
-	nter><font size="+3">LET'S START THE COUNTDOWN 
+	
+                         <center><font size="+3">LET'S START THE COUNTDOWN 
 .</font></center>
 
 
@@ -6,7 +7,7 @@
 REMAINING TIME TO START NEXT CHELLENGE..!!!.
     
 
-<html> 
+<font size="+3"><html> 
 <head> 
 <style> 
 p { 
@@ -41,13 +42,12 @@ document.getElementById("demo").innerHTML = days + "d " 
 
 
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeMH1WHUQAsDr8rVdTZ3kAuKmIdD2Tlcguq6x_pcYWkjuUsyQ/viewform?embedded=true" width="800" height="800" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeMH1WHUQAsDr8rVdTZ3kAuKmIdD2Tlcguq6x_pcYWkjuUsyQ/viewform?embedded=true" width="800" height="800" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>.</font>
 
 
 
 
 © goes to MIAH MOHAMMED AMAN(batch-22)--😍
-
 
  
 
