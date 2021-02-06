@@ -38,7 +38,7 @@ document.getElementById("demo").innerHTML = days + "d " 
 </script> 
   
 </body> 
-</html> 
+</html>.</font>
 
 
 
