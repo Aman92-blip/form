@@ -1,15 +1,15 @@
 	
-<center><font size="+3">LET'S START THE COUNTDOWN.</font></center>
+<center><font size="+3">SSC STRIKERS</font></center>
 
 <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 <script type="text/javascript" src="TimeCircles.js"></script>
 <link href="TimeCircles.css" rel="stylesheet">      
 
 
-REMAINING TIME TO START NEXT CHELLENGE..!!!.
+REMAINING TIME TO START EXAM NO-01
     
 
-<font size="+3"><html> 
+<html> 
 <head> 
 <style> 
 p { 
@@ -40,7 +40,7 @@ document.getElementById("demo").innerHTML = days + "d " 
 </script> 
   
 </body> 
-</html>.</font>
+</html>
 	
 
 
